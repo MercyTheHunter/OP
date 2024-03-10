@@ -1,0 +1,112 @@
+Logger initialized!
+GAME MASTER: created
+PLAYER1: created
+PLAYER1: waiting to start
+PLAYER2: created
+PLAYER2: waiting to start
+GAME MASTER: signaling players to start
+PLAYER1: started
+PLAYER2: started
+
+GAME MASTER: Round 1 started
+GAME MASTER: PLAYER1 has hit a Double 19
+GAME MASTER: PLAYER2 has hit a Triple 19
+
+GAME MASTER: Round 2 started
+GAME MASTER: PLAYER1 has hit a Regular 13
+GAME MASTER: PLAYER2 has hit a Triple 16
+
+GAME MASTER: Round 3 started
+GAME MASTER: PLAYER1 has hit a Double 17
+GAME MASTER: PLAYER2 has hit a Regular 16
+
+GAME MASTER: Round 4 started
+GAME MASTER: PLAYER1 has hit a Double 21
+GAME MASTER: PLAYER2 has hit a Regular 16
+
+GAME MASTER: Round 5 started
+GAME MASTER: PLAYER1 has hit a Triple 14
+GAME MASTER: PLAYER2 has hit a Triple 15
+
+GAME MASTER: Round 6 started
+GAME MASTER: PLAYER1 has hit a Triple 18
+GAME MASTER: PLAYER2 has hit a Triple 16
+
+GAME MASTER: Round 7 started
+GAME MASTER: PLAYER1 has hit a Regular 18
+GAME MASTER: PLAYER2 has hit a Triple 13
+
+GAME MASTER: Round 8 started
+GAME MASTER: PLAYER1 has hit a Triple 17
+GAME MASTER: PLAYER2 has hit a Triple 14
+
+GAME MASTER: Round 9 started
+GAME MASTER: PLAYER1 has hit a Triple 18
+GAME MASTER: PLAYER2 has hit a Triple 20
+
+GAME MASTER: Round 10 started
+GAME MASTER: PLAYER1 has hit a Regular 16
+GAME MASTER: PLAYER2 has hit a Triple 21
+
+GAME MASTER: Round 11 started
+GAME MASTER: PLAYER1 has hit a Triple 16
+GAME MASTER: PLAYER2 has hit a Triple 13
+
+GAME MASTER: Round 12 started
+GAME MASTER: PLAYER1 has hit a Triple 14
+GAME MASTER: PLAYER2 has hit a Regular 20
+
+GAME MASTER: Round 13 started
+GAME MASTER: PLAYER1 has hit a Double 17
+GAME MASTER: PLAYER2 has hit a Regular 14
+
+GAME MASTER: Round 14 started
+GAME MASTER: PLAYER1 has hit a Double 21
+GAME MASTER: PLAYER2 has hit a Triple 20
+
+GAME MASTER: Round 15 started
+GAME MASTER: PLAYER1 has hit a Regular 15
+GAME MASTER: PLAYER2 has hit a Triple 13
+
+GAME MASTER: Round 16 started
+GAME MASTER: PLAYER1 has hit a Regular 19
+GAME MASTER: PLAYER2 has hit a Regular 14
+
+GAME MASTER: Round 17 started
+GAME MASTER: PLAYER1 has hit a Triple 13
+GAME MASTER: PLAYER2 has hit a Double 16
+
+GAME MASTER: Round 18 started
+GAME MASTER: PLAYER1 has hit a Double 13
+GAME MASTER: PLAYER2 has hit a Triple 15
+
+GAME MASTER: Round 19 started
+GAME MASTER: PLAYER1 has hit a Double 14
+GAME MASTER: PLAYER2 has hit a Double 16
+
+GAME MASTER: Round 20 started
+GAME MASTER: PLAYER1 has hit a Double 19
+GAME MASTER: PLAYER2 has hit a Regular 15
+GAME MASTER: game finished. The results:
+PLAYER1
+--Score = 201
+--Sector hits (sector, hits):
+    15, 1
+    16, 4
+    17, 7
+    18, 7
+    19, 5
+    20, 0
+    21, 4
+PLAYER2
+--Score = 260
+--Sector hits (sector, hits):
+    15, 7
+    16, 12
+    17, 0
+    18, 0
+    19, 3
+    20, 7
+    21, 3
+Closing semaphores...
+Closing logger...
